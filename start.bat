@@ -1,0 +1,1 @@
+python QuestionDiagonosisTkinter.py
